@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # UniBeauty-MERN
 
 A full-stack MERN application for managing beauty products supply chain with role-based access control.
@@ -190,3 +191,6 @@ UniBeauty-MERN/
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+=======
+# Inventory-management
+>>>>>>> ccdff608c02c0ae5c8b50b4a01ac50695860dcc2
